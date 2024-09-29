@@ -1,8 +1,8 @@
 ---
-name: Client bug report
-about: Something has gone wrong with the **client**
-title: CLIENT bug - [YourTitleHere]
-labels: assignee needed, bug, client
+name: Client feature request
+about: Suggest an idea for the **client**
+title: CLIENT fr - [YourTitleHere]
+labels: assignee needed, client, fr
 assignees: ''
 
 ---
@@ -12,26 +12,13 @@ assignees: ''
 >
 > Do not put any additional lines starting with \<!--
 
-**Describe the bug**
+**Describe the feature**
 <!--DESC-->
 Your description here.
 <!--END-DESC-->
 
-**To Reproduce**
-<!--REPRO-->
-1. Do this
-2. Do that
-3. Click that
-4. See error
-<!--END-REPRO-->
-
-**Expected behaviour**
-<!--EXPECT-->
-Clear description here.
-<!--END-EXPECT-->
-
 **Screenshots**
-If applicable, add screenshots/videos to help explain your problem.
+If applicable, add screenshots/videos to help explain what you want.
 
 **Extra**
 <!--DAT-->
